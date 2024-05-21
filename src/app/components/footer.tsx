@@ -8,7 +8,7 @@ function Footer() {
       <div className='flex flex-col items-start'>
         <a href='/'>
           <img
-            src='/images/footer-logo.png'
+            src='images/footer-logo.png'
             alt='logo'
             width={150}
             height={46}

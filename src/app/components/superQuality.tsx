@@ -24,7 +24,7 @@ function SuperQuality() {
 
       <div className='flex-1 flex justify-center items-center'>
         <img
-          src='/images/shoe8.png'
+          src='images/shoe8.png'
           alt='product detail'
           width={570}
           height={522}

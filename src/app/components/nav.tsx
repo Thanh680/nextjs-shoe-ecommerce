@@ -6,7 +6,7 @@ function Nav() {
     <nav className='flex justify-between items-center max-container'>
       <a href='#'>
         <img
-          src='/images/header-logo.png'
+          src='images/header-logo.png'
           alt='logo'
           width={89}
           height={45}
@@ -31,7 +31,7 @@ function Nav() {
         <a href='#'>Explore now</a>
       </div>
       <div className='hidden max-lg:block'>
-        <img src='/icons/hamburger.svg' alt='hamburger icon' width={25} height={25} />
+        <img src='icons/hamburger.svg' alt='hamburger icon' width={25} height={25} />
       </div>
     </nav>
   </header>
