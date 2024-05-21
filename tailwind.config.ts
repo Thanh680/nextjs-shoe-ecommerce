@@ -32,8 +32,8 @@ export default {
         '3xl': '0 10px 40px rgba(0, 0, 0, 0.1)'
       },
       backgroundImage: {
-        'hero': "url('images/collection-background.jpg')",
-        'card': "url('images/thumbnail-background.svg')",
+        'hero': "url('https://thanh680.github.io/nextjs-shoe-ecommerce/images/collection-background.jpg')",
+        'card': "url('https://thanh680.github.io/nextjs-shoe-ecommerce/images/thumbnail-background.svg')",
       },
       screens: {
         "wide": "1440px"
