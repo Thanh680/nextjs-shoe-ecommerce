@@ -72,20 +72,20 @@ export const footerLinks = [
     {
         title: "Products",
         links: [
-            { name: "Bersache Ori-9013", link: "/" },
-            { name: "Bersache Ori-7013", link: "/" },
-            { name: "Bersache Ori-9003", link: "/" },
-            { name: "Bersache Ori-9047", link: "/" },
+            { name: "Bersache Ori-9013", link: "#" },
+            { name: "Bersache Ori-7013", link: "#" },
+            { name: "Bersache Ori-9003", link: "#" },
+            { name: "Bersache Ori-9047", link: "#" },
         ],
     },
     {
         title: "Help",
         links: [
-            { name: "About us", link: "/" },
-            { name: "FAQs", link: "/" },
-            { name: "How it works", link: "/" },
-            { name: "Privacy policy", link: "/" },
-            { name: "Payment policy", link: "/" },
+            { name: "About us", link: "#" },
+            { name: "FAQs", link: "#" },
+            { name: "How it works", link: "#" },
+            { name: "Privacy policy", link: "#" },
+            { name: "Payment policy", link: "#" },
         ],
     },
     {
