@@ -16,7 +16,7 @@ function Hero() {
           Shoes
           </h1>
           <p className='font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm'>Discover stylish Bersache arrivals, quality comfort, and innovation for your active life</p>
-          <Button label='Shop now' iconURL='/icons/arrow-right.png'/>
+          <Button label='Shop now' iconURL='icons/arrow-right.png'/>
           <div className="flex justify-start items-start flex-wrap w-full mt-20 gap-16">
             {statistics.map((stat) => (
               <div key={stat.label}>

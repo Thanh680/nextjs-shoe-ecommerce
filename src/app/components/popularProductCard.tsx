@@ -13,7 +13,7 @@ function popularProductCard({
     <div className='flex flex-1 flex-col w-full max-sm:w-full'>
       <img src={imgURL} alt={name} className='w-[282px] h-[282px]' />
       <div className='mt-8 flex justify-start gap-2.5'>
-        <img src='/icons/star.png' alt='rating icon' width={30} height={14} />
+        <img src='icons/star.png' alt='rating icon' width={30} height={14} />
         <p className='font-montserrat text-xl leading-normal text-slate-gray'>
           (4.5)
         </p>

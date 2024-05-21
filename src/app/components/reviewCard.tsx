@@ -21,7 +21,7 @@ function reviewCard({
       <p className='mt-6 max-w-sm text-center info-text'>{feedback}</p>
       <div className='mt-3 flex justify-center items-center gap-2.5'>
         <img
-          src='/icons/star.png'
+          src='icons/star.png'
           width={24}
           height={24}
           alt='rating star'

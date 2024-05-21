@@ -18,7 +18,7 @@ function SuperQuality() {
           Our dedication to detail and excellence ensures your satisfaction
         </p>
         <div className='mt-11'>
-          <Button label='View details' iconURL='/icons/arrow-right.png'/>
+          <Button label='View details' iconURL='icons/arrow-right.png'/>
         </div>
       </div>
 

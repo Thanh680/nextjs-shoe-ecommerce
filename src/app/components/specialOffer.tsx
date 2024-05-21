@@ -28,7 +28,7 @@ function SpecialOffer() {
           nothing short of exceptional.
         </p>
         <div className='mt-11 flex flex-wrap gap-4'>
-          <Button label='Shop now' iconURL='/icons/arrow-right.png' />
+          <Button label='Shop now' iconURL='icons/arrow-right.png' />
           <Button
             label='Learn more'
             backgroundColor='bg-white'
